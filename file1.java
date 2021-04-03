@@ -1,1 +1,1 @@
-Line in file1
+conflict Line in file1
